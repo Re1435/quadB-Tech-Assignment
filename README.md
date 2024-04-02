@@ -6,6 +6,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install @mui/icons-material @mui/material @emotion/styled @emotion/react`
+
+above command help you to add Material UI icons to the project
+
+NOTE: Please note that react and react-dom are peer dependencies, you should ensure they are installed before installing Material UI.
+
+### `npm react-redux`
+
+installs the react-redux dependencies
+
+It will help you to maintain & manage the data across the application
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -13,12 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm react-redux`
-
-installs the react-redux dependencies
-
-It will help you to maintain & manage the data across the application
 
 ### How to Use the Application
 
